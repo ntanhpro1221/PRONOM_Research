@@ -4,8 +4,8 @@
 * **Version number:** 1
 * **PUID:** none yet
 * **Extensions:** `abook`
-* **MIME/Media Type:** `application/vnd.ngdtuanh.abook+zip` (vendor tree; submitted to IANA on 2026-10-01, ticket
-  #1460837; also defined in the vendor specification below)
+* **MIME/Media Type:** `application/vnd.ngdtuanh.abook+zip` (vendor tree; registered with IANA 2026-10-28,
+  https://www.iana.org/assignments/media-types; also defined in the vendor specification below)
 * **Description:** A ZIP-based container for one finished audiobook, written by ABook, an audiobook production and
   listening application for Windows and Android. It holds the MP3 audio of every chapter (stored uncompressed), the
   book text with the speaker, emotion and timing of each line (JSON), the cast of characters with short WAV voice
